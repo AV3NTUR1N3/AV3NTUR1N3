@@ -1,16 +1,21 @@
-## Hi there 👋
+# Cymel (Kym)
 
-<!--
-**AV3NTUR1N3/AV3NTUR1N3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 16-year-old developer. I'm very good!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Identity
+- **Name:** Cymel / Kym
+- **Age:** 16
+- **Status:** Aventurine's
+
+---
+
+ My Journey
+
+
+---
+
+<div align="center">
+  <img src="8d718ca9-bd2b-489a-a825-47663d055080.gif" width="400">
+</div>
