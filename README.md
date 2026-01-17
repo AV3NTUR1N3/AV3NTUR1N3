@@ -2,20 +2,20 @@
   <img src="8d718ca9-bd2b-489a-a825-47663d055080.gif" width="400">
 </div>
 
- cymel (kym)
+ 【 Cymel Kym 】
 
 > 16-year-old developer. i'm very good!
 
 ---
 
- identity
+ ミ★ identity ★彡
 - name: cymel / kym
 - age: 16
 - status: aventurine's
 
 ---
 
- my Journey
+ ミ★ my Journey ★彡
 <div align="center">
   <table>
     <tr>
