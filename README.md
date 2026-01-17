@@ -4,14 +4,14 @@
 
  cymel (kym)
 
-> 16-year-old developer. I'm very good!
+> 16-year-old developer. i'm very good!
 
 ---
 
  identity
-- Name: Cymel / Kym
-- Age: 16
-- Status: Aventurine's
+- name: cymel / kym
+- age: 16
+- status: aventurine's
 
 ---
 
